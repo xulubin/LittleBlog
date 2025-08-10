@@ -189,7 +189,7 @@ for cmd read
 
 ## Usage[CN]
 
-下面先给出一份中文版的 Readme（整合了 btt.exe 与 upe.exe 的主要用法），然后给出针对你这台 marconi 设备的完整备份方案，所有命令均可直接复制执行。
+下面先给出一份中文版的 Readme（整合了 btt.exe 与 upe.exe 的主要用法）
 
 ### 一、fastboot / btt.exe（Android 通用刷机工具）
 1. 基本命令  
